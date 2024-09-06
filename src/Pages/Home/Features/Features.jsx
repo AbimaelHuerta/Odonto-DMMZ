@@ -1,5 +1,4 @@
 import "aos/dist/aos.css";
-import React, { useEffect } from 'react';
 import { Col } from 'react-bootstrap';
 import './Features.css';
 
