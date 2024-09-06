@@ -7,7 +7,7 @@ const Content = () => {
         <section className="about-content-sec">
             <Container>
                 <Row>
-                    <Col md={12} lg={8} lg={{ order: 2 }} className="text-center">
+                    <Col md={12} lg={8}  className="text-center">
                         <div className="section-title">
                             <h1>Our Dental Practice</h1>
                         </div>
